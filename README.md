@@ -1,8 +1,8 @@
 # Circular Object_Detector
 
 ### Value Proposition
-- Detects and marks circular objects from live streams.
-- Objects can optionally be filtered with HSV Color value.
+- Detection and marking of circular objects from live stream.
+- Objects can optionally be filtered with specified HSV Color values.
 
 ### Requirements
 - QT Framework
