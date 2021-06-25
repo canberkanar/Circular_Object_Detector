@@ -1,4 +1,4 @@
-# Circular Object_Detector
+# Circular Object Detector
 
 ### Value Proposition
 - Detection and marking of circular objects from live stream.
